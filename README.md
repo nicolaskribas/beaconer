@@ -10,11 +10,13 @@ cargo install --git https://github.com/nicolaskribas/beaconer.git
 ```
 
 ## Usage
+
 ```
 beaconer [OPTIONS] -t <TOPIC>
 ```
 
 ### Options
+
 ```
 -h <HOST>                   Broker's hostname [default: localhost]
     --help                  Print help information
